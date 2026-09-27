@@ -1,0 +1,24 @@
+Vivado synthesis - Part 1 (single clocked process)
+---------------------------------------------------------------------------------
+Start RTL Component Statistics
+---------------------------------------------------------------------------------
+Detailed RTL Component Info :
++---Adders :
+	   2 Input     26 Bit       Adders := 1
+	   2 Input      7 Bit       Adders := 11
+	   2 Input      4 Bit       Adders := 2
+	   9 Input      4 Bit       Adders := 1
+	  10 Input      4 Bit       Adders := 1
++---Registers :
+	               26 Bit    Registers := 1
+	                7 Bit    Registers := 2
+	                4 Bit    Registers := 1
+	                1 Bit    Registers := 2
++---Muxes :
+	   4 Input      8 Bit        Muxes := 1
+	   2 Input      7 Bit        Muxes := 10
+	   4 Input      4 Bit        Muxes := 1
+	   2 Input      4 Bit        Muxes := 2
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics
+---------------------------------------------------------------------------------
